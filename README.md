@@ -17,6 +17,9 @@ allowed languages:
 - python
 - elm
 - haskell
+- C
+- C++
+- Java
 - some combination thereof
 
 potential additions: (note, these are not requirements!)
