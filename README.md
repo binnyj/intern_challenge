@@ -1,5 +1,5 @@
 # intern_challenge
-A coding challenge for our internship applicants
+A Tic Tac Toe coding challenge for our internship applicants
 
 In one of the following languages, please implement a tic-tac-toe game for two users.
 
